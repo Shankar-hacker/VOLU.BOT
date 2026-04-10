@@ -135,11 +135,19 @@ volu-bot/
 
 ## Chat Session Management
 
-- **Create Sessions**: Click "➕ New Chat Session" to start a fresh conversation
+- **Create Sessions**: Click "✙ New Chat Session" to start a fresh conversation
 - **Switch Sessions**: Use the dropdown to switch between existing sessions
 - **Session Persistence**: Each session maintains its own conversation history
 - **Delete Sessions**: Remove unwanted sessions (requires at least 1 session to remain)
 - **Export**: Export current session's chat history as a text file
+
+## Features
+**_Landing Page_** <img width="1913" height="898" alt="landing" src="https://github.com/user-attachments/assets/1e869f78-f651-4728-be4f-f9fe4beb28cf" />
+**_File Upload_** ![file_upload](https://github.com/user-attachments/assets/a2570182-12a3-405d-8040-79d5653c418c)
+**_Document Summary_** ![doc_summary](https://github.com/user-attachments/assets/bf0294c6-c5c8-48d7-a7f9-8e898abfc2c1)
+**_Session 1 Chat_** ![session1](https://github.com/user-attachments/assets/d93f8ca1-6164-402f-ae3c-da6b0b7911cd)
+**_Session 3 Chat_** ![session3](https://github.com/user-attachments/assets/c2274a5c-7626-403b-a924-89f842395977)
+
 
 ## Deployment to Streamlit Cloud
 
