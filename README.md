@@ -143,7 +143,7 @@ volu-bot/
 
 ## Features
 **_Landing Page_** <img width="1913" height="898" alt="landing" src="https://github.com/user-attachments/assets/1e869f78-f651-4728-be4f-f9fe4beb28cf" />
-<br>
+<br><br>
 **_File Upload_** ![file_upload](https://github.com/user-attachments/assets/a2570182-12a3-405d-8040-79d5653c418c)
 <br>
 **_Document Summary_** ![doc_summary](https://github.com/user-attachments/assets/bf0294c6-c5c8-48d7-a7f9-8e898abfc2c1)
