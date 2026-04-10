@@ -143,15 +143,15 @@ volu-bot/
 
 ## Features
 **_Landing Page_** <img width="1913" height="898" alt="landing" src="https://github.com/user-attachments/assets/1e869f78-f651-4728-be4f-f9fe4beb28cf" />
-<br><br>
+<br><br><br>
 **_File Upload_** ![file_upload](https://github.com/user-attachments/assets/a2570182-12a3-405d-8040-79d5653c418c)
-<br>
+<br><br><br>
 **_Document Summary_** ![doc_summary](https://github.com/user-attachments/assets/bf0294c6-c5c8-48d7-a7f9-8e898abfc2c1)
-<br>
+<br><br><br>
 **_Session 1 Chat_** ![session1](https://github.com/user-attachments/assets/d93f8ca1-6164-402f-ae3c-da6b0b7911cd)
-<br>
+<br><br><br>
 **_Session 3 Chat_** ![session3](https://github.com/user-attachments/assets/c2274a5c-7626-403b-a924-89f842395977)
-<br>
+<br><br>
 
 
 ## Deployment to Streamlit Cloud
